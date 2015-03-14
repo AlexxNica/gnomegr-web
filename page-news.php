@@ -29,7 +29,7 @@ require_once("header.php"); ?>
         <div class="container_12">
         
             <div class="page_title">
-                <h1><?php echo __('Αρχειοθήκη νέων', 'grass');?></h1>
+                <h1><?php echo __('Αρχείο Ειδήσεων/Ανακοινώσεων', 'grass');?></h1>
             </div>
             
             <div class="content">
