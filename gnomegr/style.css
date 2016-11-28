@@ -135,7 +135,12 @@ a:visited {
 #header #logo img:hover {
    opacity: 0.85;
 }
-
+#home_banner img {
+    width: 940px;
+    height: 280px;
+    display: block;
+    margin: 0 auto;
+}
 
 
 /* Top bar */
