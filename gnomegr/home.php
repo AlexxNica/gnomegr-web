@@ -31,7 +31,7 @@ require_once("header.php"); ?>
 
 	<div class="grid_4 alpha">
 		<div class="subtle_greybox">
-<p>Για συζήτηση και νέα σχετικά με την ελληνική κοινότητα του GNOME,μπορείτε να κάνετε εγγραφή στη <a href="http://lists.gnome.gr/listinfo.cgi/team-gnome.gr" target="_blank">Λίστα αλληλογραφίας</a></p>
+<p>Για συζήτηση και νέα σχετικά με την ελληνική κοινότητα του GNOME,μπορείτε να κάνετε εγγραφή στη <a href="https://mail.gnome.org/mailman/listinfo/gnome-el-list" target="_blank">Λίστα αλληλογραφίας</a></p>
 <p>Η <strong>λίστα αλληλογραφίας</strong> μας είναι το κύριο μέσο,στο οποίο γίνεται η επικοινωνία μεταξύ των μελών της ελληνικής κοινότητας του GNOME.
 </p>        
 		 </div>  

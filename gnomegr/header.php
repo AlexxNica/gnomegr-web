@@ -46,7 +46,7 @@
             		<a  href="http://wiki.gnome.gr/" title="Το wiki της κοινότητας" target="_blank">Wiki</a>
         		</div>
         		<div>
-								<a href="http://lists.gnome.gr/listinfo.cgi/team-gnome.gr" title="Λίστα αληλλογραφίας" target="_blank">Λίστα αλληλογραφίας</a>
+                    <a href="https://mail.gnome.org/mailman/listinfo/gnome-el-list" title="Λίστα αληλλογραφίας" target="_blank">Λίστα αλληλογραφίας</a>
        			 </div>
 		</div>
 
@@ -60,14 +60,6 @@
             <div class="left">
 									<div class="menu-globalnav-container">
 												<?php wp_nav_menu('menu=globalnav'); ?>
-											<!--<ul id="menu-globalnav" class="menu">
-												<li><a href="/whygnome/" title="Γιατί να επιλέξετε το GNOME">Γιατί GNOME;</a></li>
-												<li><a href="/gnome-3/" title="Γνωρίστε το GNOME 3">GNOME 3</a></li>
-												<li><a href="/downloads/" title="Λήψη του GNOME">Λήψη</a></li>
-												<li><a href="/screenshots/" title="Στιγμιότυπα με το GNOME">Στιγμιότυπα</a></li>
-												<li><a href="/contribute/" title="Συμμετοχή στην ελληνική κοινότητα του GNOME">Συμμετοχή</a></li>
-												<li><a href="/contact/" title="Επικοινωνήστε μαζί μας">Επικοινωνία</a></li>
-											</ul>-->
 										</div>
 							</div>
 
