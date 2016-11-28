@@ -12,7 +12,7 @@ require_once("header.php"); ?>
 
 <!-- home banner -->
 <div id="home_banner">
-<a href="http://gnome.gr/screenshots/" title="Στιγμιότυπα του GNOME"><img src="/wp-content/uploads/2014/10/snapshot2.png" alt="Κυκλοφόρησε το GNOME!!"/></a>
+<a href="http://gnome.gr/screenshots/" title="Στιγμιότυπα του GNOME"><img src="/wp-content/uploads/sites/7/2014/10/snapshot2.png" alt="Κυκλοφόρησε το GNOME!!"/></a>
 </div>
 
 <div class="welcome_text">
@@ -48,18 +48,19 @@ require_once("header.php"); ?>
 <ul>
 	<li>
 		<a href="https://www.facebook.com/gnomegr" target="_blank">
-		<img src="http://gnome.gr/wp-content/themes/gnome-grass/images/social/facebook.png" alt="facebook" width="32" height="32"/>Facebook</a>
+		<img src="<?php bloginfo('template_url')?>/images/social/facebook.png" alt="facebook" width="32" height="32"/>Facebook</a>
 	</li>
 	<li>
-		<a href="http://twitter.com/gnomegr/" target="_blank">
-		<img src="http://gnome.gr/wp-content/themes/gnome-grass/images/social/twitter.png" alt="twitter" width="32" height="32"/>Twitter</a>
+		<a href="https://twitter.com/gnomegr/" target="_blank">
+		<img src="<?php bloginfo('template_url')?>/images/social/twitter.png" alt="twitter" width="32" height="32"/>Twitter</a>
 	</li>
 	<li>
-		<a href="https://plus.google.com/+GnomeGr" target="_blank" style="text-decoration:none;"><img src="http://gnome.gr/wp-content/themes/gnome-grass/images/social/gplus.png"  alt="googleplus" style="border:0;width:32px; height:32px;"/>Google+</a>
+		<a href="https://plus.google.com/+GnomeGr" target="_blank" style="text-decoration:none;">
+        <img src="<?php bloginfo('template_url')?>/images/social/gplus.png"  alt="googleplus" style="border:0;width:32px; height:32px;"/>Google+</a>
 	</li>
 	<li>
 		<a href="https://github.com/gnomegr" target="_blank">
-		<img src="http://gnome.gr/wp-content/themes/gnome-grass/images/social/github.png" style="width:33px; height:33px;" alt="github_repo"/>GitHub repo</a>
+		<img src="<?php bloginfo('template_url')?>/images/social/github.png" style="width:33px; height:33px;" alt="github_repo"/>GitHub repo</a>
 	</li>
 </ul>
 
