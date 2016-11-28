@@ -213,7 +213,7 @@ a:visited {
     border: 0;
     font: inherit;
     color: inherit;
-    padding: 8px 8px 8px 28px;
+    padding: 8px 5px 8px 28px;
     background: transparent url(images/search-icon.png) 8px center no-repeat;
     color: #fff;
     border-left: 1px solid rgba(100%,100%,100%,0.3);
